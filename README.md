@@ -1,10 +1,19 @@
 # Sistemas web
 
-> Repositório de estudos e projetos desenvolvidos na disciplina **Sistemas web** dos cursos técnicos da **ETEC**.
+[![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)]()
+[![Atualização](https://img.shields.io/badge/Atualização-Contínua-blue)]()
+[![Organização](https://img.shields.io/badge/Organização-Modular-lightgrey)]()
+[![Tipo](https://img.shields.io/badge/Repositório-Educacional-purple)]()
+
+Repositório de estudos e projetos desenvolvidos na disciplina **Sistemas web** dos cursos técnicos da **ETEC**.
+
+---
 
 ## Objetivo
 
 Este repositório tem como objetivo armazenar os conteúdos, exercícios, projetos e anotações da matéria **Sistemas web**, com foco em reforçar o aprendizado e servir de base para revisões futuras.
+
+---
 
 ## Conteúdo
 
@@ -13,11 +22,15 @@ Este repositório tem como objetivo armazenar os conteúdos, exercícios, projet
 - Projetos desenvolvidos
 - Anotações e materiais de apoio
 
+---
+
 ## Tecnologias / Ferramentas Utilizadas
 
 - Linguagens: `HTML`, `CSS`,`PHP`
 - IDE/Editor: `Visual Studio Code`
 - Outras ferramentas: `XAMPP`, `MySQL`
+
+---
 
 ## Autora
 
@@ -25,6 +38,8 @@ Este repositório tem como objetivo armazenar os conteúdos, exercícios, projet
 Curso Técnico em Informática Para Internet – ETEC
 Curso Técnico em Desenvolvimento de Sistemas – ETEC
 ana.lucia.cavalcantes.irino@gmail.com  
+
+---
 
 ## Observações
 
